@@ -1,14 +1,12 @@
 [
     {
-        "image": "https://thumb.modcdn.io/mods/9b16/4858316/crop_1280x720/capturetheflag.png",
-        "zipUrl": "https://g-6657.modapi.io/v1/games/6657/mods/4858316/files/6310109/download",
-        "title": "-Capture the Flag-",
-        "description": "-Capture the Flag-",
-        "stars": "5",
-        "ratingNum": "5",
+        "itemImageUrl": "https://thumb.modcdn.io/mods/9b16/4858316/crop_1280x720/capturetheflag.png",
+        "itemZipUrl": "https://g-6657.modapi.io/v1/games/6657/mods/4858316/files/6310109/download",
+        "itemTitle": "-Capture the Flag-",
+        "itemDescription": "-Capture the Flag-",
+        "itemRating": "5",
         "itemNumDownload": "2",
         "itemNumViews": "1",
-        "itemSize": "1.1 Mb"
     },
     {
         "image": "https://thumb.modcdn.io/mods/8c36/4258844/crop_1280x720/punch.png",
